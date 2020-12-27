@@ -625,7 +625,7 @@
   text-decoration: none;
   cursor: pointer;
 }
-@media (max-width: 426) {
+@media (max-width: 426px) {
   .head{
     padding-left: 0;
   }
